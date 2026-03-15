@@ -7,7 +7,7 @@ A standard library extension for c++ to include some of the popular algorithms.
 ### Option 1: Clone Just the `knife/` Folder  
 ```sh
 # Clone ONLY the aggregator header (no submodules/tests):  
-git clone --filter=blob:none --no-checkout git@github.com:CodeGeek2006/swiss_knife.git  
+git clone --filter=blob:none --no-checkout git@github.com:x2lol/swiss_knife.git  
 cd swiss_knife  
 git sparse-checkout init --cone  
 git sparse-checkout set knife  
