@@ -15,7 +15,7 @@ git checkout main  # or your target branch
 ```
 
 ### Option 2: Download Manually  
-1. Go to [`knife/` on GitHub](https://github.com/CodeGeek2006/swiss_knife/tree/main/knife).  
+1. Go to [`knife/` on GitHub](https://github.com/x2lol/swiss_knife/tree/main/knife).  
 2. Download the header file(s) you need (e.g., `swiss_knife.hpp`).  
 
 ---
@@ -39,12 +39,12 @@ git checkout main  # or your target branch
 ---
 
 ## 📜 License  
-MIT License. See [LICENSE](https://github.com/CodeGeek2006/swiss_knife/blob/main/LICENSE).  
+MIT License. See [LICENSE](https://github.com/x2lol/swiss_knife/blob/main/LICENSE).  
 
 ---
 
 ### 🔗 Links  
-- [Full Repo](https://github.com/CodeGeek2006/swiss_knife) (for developers)  
-- [Report Issues](https://github.com/CodeGeek2006/swiss_knife/issues)  
+- [Full Repo](https://github.com/x2lol/swiss_knife) (for developers)  
+- [Report Issues](https://github.com/x2lol/swiss_knife/issues)  
 
 --- 
